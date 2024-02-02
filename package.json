@@ -1,18 +1,18 @@
 {
-  "name": "ev0-astro-theme",
+  "name": "SOLO DE IDA",
   "version": "1.1.5",
-  "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+  "description": "Solo de ida | Blog viajero para compartir experiencias y noticias de viajes.",
   "license": "MIT",
   "private": true,
   "author": {
-    "name": "GNDX"
+    "name": "Mateo"
   },
-  "homepage": "https://ev0.gndx.dev",
+  "homepage": "https://solodeida.com",
   "contributors": [
     {
-      "name": "Oscar Barajas @gndx",
-      "email": "oscar@gndx.dev",
-      "url": "https://gndx.dev"
+      "name": "Mateo Galvez",
+      "email": "migotusa@gmail.com",
+      "url": "https://instagram.com/solodeidablog"
     }
   ],
   "keywords": [
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gndx/ev0-astro-theme.dev.git"
+    "url": "https://github.com/matgal21/"
   },
   "scripts": {
     "dev": "astro dev",
